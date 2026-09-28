@@ -1,0 +1,9 @@
+# Dataset: download from Kaggle (competition rules apply)
+*.nc
+*.npy
+*.zip
+uwndc19/
+
+# Notebooks and Python
+.ipynb_checkpoints/
+__pycache__/
